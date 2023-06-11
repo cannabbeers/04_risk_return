@@ -41,10 +41,11 @@ This code will show you how we decide what qualifies as sound, strategic investi
 + Risk - calculate and reorder each fund and the S&P 500 in order to show lowest to highest risk fund
 
 + Risk-return profile - formulas calculated for comparison: 
-        (Annual Average Return) = (mean of Daily Returns) × (trading days in year)
-        (Annualized Standard Deviation) = (Standard Deviation) × (Square Root of 'Trading Days in a Year')
-        Sharpe Ratio = (Annual Average Return) ÷ (Annualized Standard Deviation) <-- **measure of risk-adjusted return**
-
+```
+  (Annual Average Return) = (mean of Daily Returns) × (trading days in year)
+  (Annualized Standard Deviation) = (Standard Deviation) × (Square Root of 'Trading Days in a Year')
+  Sharpe Ratio = (Annual Average Return) ÷ (Annualized Standard Deviation) <-- measure of risk-adjusted return
+```
 + Portfolio Diversification - calculate the beta:  
 
     **Beta = (Covariance of Portfolio) ÷ (Variance of 'S&P' 500)**
