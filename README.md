@@ -20,6 +20,20 @@ This code will show you how we decide what qualifies as sound, strategic investi
    ### Diversify the Portfolio - `var`,`mean`, and `cov` from `pandas` team up with `matplotlib.pyplot` to flush out the best investments
 
 ---
+ 
+### Links to [`Special Text Symbols`](https://symbolsdb.com/text-symbols) for Mathamatecal Equations Below
+```
+        [Σ uppercase Sigma for 'Summation'](https://usefulshortcuts.com/alt-codes/greek-alt-codes.php) 
+        [𝜎 lowercase sigma for 'Standard Deviation'](https://symbolsdb.com/standard-deviation-symbol)
+        [̄x = Mean](https://symbolsdb.com/mean-symbol)
+        [ß](https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/)
+        [÷ division](https://www.alt-codes.net///)
+        [× muliplication](https://usefulshortcuts.com/alt-codes/maths-alt-codes.php)
+        [² 'squared' or 'power' of 2](https://theasciicode.com.ar/ascii-table-characters.pdf)
+        [√ 'square root](https://superuser.com/questions/345543/what-is-the-ascii-altnumber-for-the-square-root-symbol-%E2%88%9A-in-windows)
+        
+
+```
 
 ### We will now walk you through the quantitative analysis used to arrive at our reccomendations based on: 
 
@@ -30,19 +44,21 @@ This code will show you how we decide what qualifies as sound, strategic investi
 + Risk - calculate and reorder each fund and the S&P 500 in order to show lowest to highest risk fund
 
 + Risk-return profile - formulas calculated for comparison: 
-        (Annual Average Return) = (mean of Daily Returns) * (trading days in 1 year)
-        (Annualized Standard Deviation) = (Standard Deviation) * (Square Root of 'Trading Days in a Year')
-        Sharpe Ratio = (Annual Average Return) / (Annualized Standard Deviation)
+        (Annual Average Return) = (mean of Daily Returns) × (trading days in year)
+        (Annualized Standard Deviation) = (Standard Deviation) × (Square Root of 'Trading Days in a Year')
+        Sharpe Ratio = (Annual Average Return) ÷ (Annualized Standard Deviation) <-- **measure of risk-adjusted return**
 
-+ Portfolio Diversification - calculate the beta:
-        Beta = (Covariance of Fund) / (Variance of S&P 500)
++ Portfolio Diversification - calculate the beta:  **Beta = (Covariance of Portfolio) ÷ (Variance of 'S&P' 500)**
 
+        Covariance = Σ [(X - X̄) × (Y - Ȳ)] C (n - 1)
+        Variance = Σ (X - X̄)² ÷ (n - 1)
+       
 ### Key `Risk Management Metrics` to be calculated: 
 
-1) Daily Returns - 
-2) Standard Deviations - 
-3) Sharpe Ratios
-4) Betas
+1) [Daily Returns](https://towardsdatascience.com/calculate-and-plot-s-p-500-daily-returns-2ce359e014d6)
+2) [Standard Deviation](https://www.investopedia.com/terms/s/standarddeviation.asp)
+3) [Sharpe Ratios](https://en.wikipedia.org/wiki/Sharpe_ratio)
+4) [Beta](https://en.wikipedia.org/wiki/Beta_(finance))
 
 ---
 
