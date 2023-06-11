@@ -21,19 +21,19 @@ This code will show you how we decide what qualifies as sound, strategic investi
 
 ---
  
-### Links to [`Special Text Symbols`](https://symbolsdb.com/text-symbols) for Mathamatecal Equations Below
-```
-        [Σ uppercase Sigma for 'Summation'](https://usefulshortcuts.com/alt-codes/greek-alt-codes.php) 
-        [𝜎 lowercase sigma for 'Standard Deviation'](https://symbolsdb.com/standard-deviation-symbol)
-        [̄x = Mean](https://symbolsdb.com/mean-symbol)
-        [ß](https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/)
-        [÷ division](https://www.alt-codes.net///)
-        [× muliplication](https://usefulshortcuts.com/alt-codes/maths-alt-codes.php)
-        [² 'squared' or 'power' of 2](https://theasciicode.com.ar/ascii-table-characters.pdf)
-        [√ 'square root](https://superuser.com/questions/345543/what-is-the-ascii-altnumber-for-the-square-root-symbol-%E2%88%9A-in-windows)
+### Links to [`Special Text Symbols`](https://symbolsdb.com/text-symbols) for Mathematical Equations Below
+
+   [Σ uppercase Sigma for 'Summation'](https://usefulshortcuts.com/alt-codes/greek-alt-codes.php) 
+   [𝜎 lowercase sigma for 'Standard Deviation'](https://symbolsdb.com/standard-deviation-symbol)
+   [̄x = Mean](https://symbolsdb.com/mean-symbol)
+   [ß](https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/)
+   [÷ division](https://www.alt-codes.net///)
+   [× muliplication](https://usefulshortcuts.com/alt-codes/maths-alt-codes.php)
+   [² 'squared' or 'power' of 2](https://theasciicode.com.ar/ascii-table-characters.pdf)
+   [√ 'square root](https://superuser.com/questions/345543/what-is-the-ascii-altnumber-for-the-square-root-symbol-%E2%88%9A-in-windows)
         
 
-```
+
 
 ### We will now walk you through the quantitative analysis used to arrive at our reccomendations based on: 
 
@@ -48,9 +48,11 @@ This code will show you how we decide what qualifies as sound, strategic investi
         (Annualized Standard Deviation) = (Standard Deviation) × (Square Root of 'Trading Days in a Year')
         Sharpe Ratio = (Annual Average Return) ÷ (Annualized Standard Deviation) <-- **measure of risk-adjusted return**
 
-+ Portfolio Diversification - calculate the beta:  **Beta = (Covariance of Portfolio) ÷ (Variance of 'S&P' 500)**
++ Portfolio Diversification - calculate the beta:  
 
-        Covariance = Σ [(X - X̄) × (Y - Ȳ)] C (n - 1)
+    **Beta = (Covariance of Portfolio) ÷ (Variance of 'S&P' 500)**
+
+        Covariance = Σ [(X - X̄) × (Y - Ȳ)] ÷ (n - 1)
         Variance = Σ (X - X̄)² ÷ (n - 1)
        
 ### Key `Risk Management Metrics` to be calculated: 
