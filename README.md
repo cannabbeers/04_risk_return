@@ -26,7 +26,7 @@ This code will show you how we decide what qualifies as sound, strategic investi
 + [Σ uppercase Sigma for 'Summation'](https://usefulshortcuts.com/alt-codes/greek-alt-codes.php) 
 + [𝜎 lowercase sigma for 'Standard Deviation'](https://symbolsdb.com/standard-deviation-symbol)
 + [̄x = Mean](https://symbolsdb.com/mean-symbol)
-+ [ß](https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/)
++ [ß Beta](https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/)
 + [÷ division](https://www.alt-codes.net///)
 + [× muliplication](https://usefulshortcuts.com/alt-codes/maths-alt-codes.php)
 + [² 'squared' or 'power' of 2](https://theasciicode.com.ar/ascii-table-characters.pdf)
